@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,4BAA6B;EAC5B,MAAM,EAAE,eAAe;;AAEvB,gEAAsC;EACrC,OAAO,EAAE,IAAI;;;AAIf,gBAAgB;AAChB,+CAAgD;EAC5C,SAAS,EAAE,IAAI;;;AAEnB,yBAA0B;EACtB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,WAAW,EAAE,eAAe;;;AAEhC,gCAAiC;EAC7B,WAAW,EAAE,eAAe;;;AAGhC,gBAAgB;AAChB,uDAAwD;EACvD,OAAO,EAAE,OAAO",
+"sources": ["skin-admin.scss"],
+"names": [],
+"file": "skin-admin.css"
+}

@@ -1,0 +1,131 @@
+Version: 2.9.0
+	Skin 'default' is updated to the version 1.5.
+
+Version: 2.8.0
+	Skin 'default' is updated to the version 1.4.
+
+Version: 2.7.0
+	Skin 'default' is updated to the version 1.3.
+
+Version: 2.6.0
+	Added: 		Instagram Feed plugin
+				YouTube Shorts video support
+				TikTok Icons
+	Updated: 	Demo data
+	Improved: 	Theme styles
+				Plugins Compatibility
+
+Version: 2.5.0
+	Skin 'default' is updated to the version 1.2.
+
+Version: 2.4.0
+	Updated: 	AMP styles
+
+Version: 2.3.0
+	Updated: 	Themes styles and scripts
+	Improved: 	Plugin Compatibility
+
+Version: 2.2.0
+	Skin 'default' is updated to the version 1.1.
+
+Version: 2.1.0
+    Added: 		Theme option that allows to invert the colors of the logo in a dark scheme
+	Updated: 	Category page view
+	Fixed: 		Icons
+				AMP validation (removed !important)
+				Gallery widget view after WP update
+				Custom submenu bugs on iPad
+				Video post bugs in Slider widget
+				Post formats styles in Blogger widget (List type)
+				Variable product page view after WooCommerce update
+
+Version 2.0.0
+	Updated:
+        - Theme сore
+        - Theme content
+        - Theme design
+        - Theme documentation
+
+    Changed:
+        - Theme Builder - Elementor
+
+    Removed:
+        - MC4WP: Mailchimp for WordPress
+        - Custom Feeds for Instagram
+        - Essential Grid
+        - Slider Revolution
+        - WPBakery Page Builder
+
+    Added:
+        - Accelerated Mobile Pages
+        - Advanced Popups
+        - Easy Forms for Mailchimp
+        - GDPR Compliance for Mailchimp
+        - GDPR Cookie Consent
+        - Kadence Blocks – Gutenberg Blocks for Page Builder Features
+        - Limit Modified Date
+        - Powerkit
+        - WooCommerce
+        - WooCommerce Advanced Product Labels
+        - elegro Crypto Payment
+
+
+
+Version 1.1.7
+	Fixed:
+		- Update plugins to their latest versions
+		- Axiom Badge Update
+
+Version 1.1.6
+	Fixed:
+		- Update plugins to their latest versions
+
+Version 1.1.5
+    - Update plugins to their latest versions
+    - Improve theme styles
+
+Version 1.1.4
+    Fixed:
+     - Compatibility with WP 5.2
+     - Compatibility with PHP 7.3
+     - Compatibility with JS Composer 6.0.5
+     - Compatibility with Revolution Slider 6.0.5
+     - Update plugins to their latest versions
+     ADD:
+     - Contact Form 7
+     - Short code Pricing
+
+Version 1.1.3
+    Fixed:
+    - Compatibility with WP 5.1.1
+
+Version 1.1.2
+    Fixed:
+    - Meta boxes
+
+Version 1.1.1
+    Fixed:
+    - Compatibility with WP 5.0
+    - Older/Newest pagination
+    - Social sharing
+    - Single post translation
+
+Version 1.1
+        - Update plugins to their latest versions
+        - Add GDPR update
+       	- Add GDPR Framework plugin
+       	- Add alert install demodate
+       	- Compatibility Gutenberg and other PageBuilders
+
+
+Version 1.0.1
+    Fixed:
+        - Compatibility with WordPress 4.9.6
+        - Update plugins to their latest versions
+        - Footer logo аnd social icons
+        - Bugs with translating post meta
+        - Post meta
+		- Update documentation
+
+Version 1.0
+Release

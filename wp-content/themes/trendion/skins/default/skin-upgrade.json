@@ -1,0 +1,20 @@
+{
+    "exclude": {
+        "files": [
+            "css/__custom.css",
+            "css/extra-style.css",
+            "css/extra-style.scss",
+            "images/login_bg.jpg",
+            "plugins/accelerated-mobile-pages/accelerated-mobile-pages.scss",
+            "plugins/accelerated-mobile-pages/accelerated-mobile-pages.css",
+            "skin-setup.php",
+            "skin-demo-importer.php",
+            "theme-specific/trx_addons-layouts.php",
+            "skin.jpg"
+        ],
+        "folders": [
+            "theme-specific/theme-about",
+            "languages"
+        ]
+    }
+}

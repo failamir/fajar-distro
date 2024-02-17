@@ -1,0 +1,19 @@
+.crawlomatic_gallery {display: flex;justify-content:center;text-align:center;flex-wrap:wrap;width: 100%; margin: 0 auto;padding: 5px;background: #fff;box-shadow: 0 1px 2px rgba(0,0,0,.3);}.crawlomatic_gallery > div {padding: 5px;}.crawlomatic_gallery > div > img {display: block;width: 220px;height: 220px;transition: .1s transform;transform: translateZ(0); /* hack */}.crawlomatic_gallery > div:hover {z-index: 1;}.crawlomatic_gallery > div:hover > img {transform: scale(1.7,1.7);transition: .4s transform;}.crawlomatic_cf:before, .crawlomatic_cf:after {display: table;content: "";line-height: 0;}.crawlomatic_cf:after {clear: both;}
+.mejs-currenttime,.mejs-duration,.mejs-time-slider {
+    display: none !important;
+}
+.display-posts-listing .listing-item {
+    clear: both;
+}
+
+.display-posts-listing img {
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.crawlomatic_display_title { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; }
+.crawlomatic_display_title { text-decoration: none; color: rgb(31, 30, 30); }
+.crawlomatic_display_excerpt { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; }
+.crawlomatic_display_excerpt { text-decoration: none; color: rgb(31, 30, 30); }
+.crawlomatic_display_excerpt { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; }
+.crawlomatic_display_excerpt { text-decoration: none; color: rgb(31, 30, 30); }
+.crawlomatic_display_excerpt { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; }
